@@ -7,8 +7,8 @@
 | Apellido y Nombre | Padrón |
 | :--- | :--- |
 | Monforte, Camila Sol | 107193 |
-| [Apellido, Nombre Integrante 2] | [Padrón Integrante 2] |
-| Morhell, Haidar Ali | 108576 |
+| Spratte, Federico] | 105694 |
+| [Apellido, Nombre Integrante 3] | [Padrón Integrante 3] |
 
 **Fecha: 2do cuatrimestre 2025**
 
